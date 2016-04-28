@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Khristopher Carlson]]></title>
+        <description><![CDATA[Khristopher Carlson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Apr 2016 14:24:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The piloting steadfast</p>]]></description>
+            <link>undefinedthe-piloting-steadfast/index.html</link>
+            <guid isPermaLink="false">cce26477-4ef8-49a0-ad62-9fbf98afdda1</guid>
+            <pubDate>Thu, 28 Apr 2016 14:24:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
