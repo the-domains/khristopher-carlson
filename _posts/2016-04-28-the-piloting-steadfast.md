@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'The piloting steadfast '
-datePublished: '2016-04-28T14:24:22.934Z'
-dateModified: '2016-04-28T14:23:03.802Z'
+description: 'The beginning '
+datePublished: '2016-04-28T14:33:41.934Z'
+dateModified: '2016-04-28T14:32:21.754Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-the-piloting-steadfast.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,10 +18,9 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-the-piloting-steadfast.md
-published: true
 url: the-piloting-steadfast/index.html
 _type: Article
 
 ---
-The piloting steadfast
+The beginning
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/705519a5-4ba7-4721-a688-3f7a01300245.jpg)
