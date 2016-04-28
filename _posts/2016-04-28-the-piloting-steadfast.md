@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'From Turkana, that place where water is gold and cows are steadfast pilots  '
-datePublished: '2016-04-28T14:34:06.318Z'
-dateModified: '2016-04-28T14:33:45.879Z'
+description: 'From Turkana, that place where water is gold and cows are steadfast pilots '
+datePublished: '2016-04-28T14:37:59.263Z'
+dateModified: '2016-04-28T14:37:00.542Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-the-piloting-steadfast.md
